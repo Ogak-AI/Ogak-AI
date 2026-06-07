@@ -1,89 +1,53 @@
-# Hi, I'm Finomo Awajiogak Orom
+# Finomo Awajiogak Orom
 
-### Software Engineer • Educator • Community Builder
+Software Engineer · Educator · Lagos, Nigeria
 
-I’m a software engineering instructor and technology community builder passionate about digital literacy, open-source technology, financial inclusion, and accessible education for underserved communities in Africa.
+I teach software engineering at Digital Fortress Institute and build open-source tools focused on financial access and digital literacy in West Africa. Most of my work sits at the intersection of education and infrastructure — figuring out how to make useful technology actually reach people who need it.
 
-Currently focused on building educational systems, AI-powered tools, blockchain applications, and community-driven technology initiatives that improve access to digital opportunities.
-
----
-
-## About Me
-
-- Software Engineering Instructor
-- Community Builder & Tech Educator
-- Interested in Mobile-First Technology
-- Passionate about Cybersecurity & Digital Safety
-- Background in Data Analysis & IT Systems
-- Exploring AI, Blockchain, and Open Financial Infrastructure
-- Focused on Digital Financial Literacy & Inclusion
+Right now I'm deep into ILP and Open Payments, AI automation, and mobile-first fintech for Nigerian users. I also run a tech learning community in Lagos where we go from absolute basics to building real things.
 
 ---
 
-## Tech Stack
+## What I work with
 
-### Languages & Tools
-- Python
-- JavaScript
-- HTML/CSS
-- Git & GitHub
-- Data Analysis
-- IT Support & Systems Maintenance
-- Cybersecurity Basics
+**Day to day:** Python, JavaScript, HTML/CSS, Git
 
-### Currently Learning
-- Solana Mobile Stack
-- Blockchain Development
-- AI Automation Systems
-- Open-Source Financial Infrastructure
-- Scalable Community Learning Systems
+**Currently building with:** Blockchain tooling, AI automation, USSD-based fintech, open financial infrastructure
+
+**Background in:** Data analysis, IT systems, cybersecurity fundamentals
 
 ---
 
-## Community & Education
+## Teaching & community
 
-I actively teach and mentor students through:
-- Software engineering training
-- Python programming
-- Cybersecurity awareness
-- Beginner-friendly technology education
-- Community-based digital literacy initiatives
+I run workshops covering Python, software engineering foundations, and cybersecurity basics — mostly for beginners who haven't had much access to structured tech education. The goal is always practical: people leave knowing how to build something, not just knowing that programming exists.
 
-I also run a growing tech community focused on learning, collaboration, and helping more people access opportunities in technology.
+The community side has grown into something I didn't fully plan — developers, students, and small business owners in Lagos collaborating on projects and helping each other find opportunities in tech.
 
 ---
 
-## Current Focus
+## What I'm working on
 
-- Building AI-powered tools
-- Open-source educational projects
-- Digital financial literacy initiatives
-- Mobile-first applications
-- Community-driven technology ecosystems
-
----
-
-## Open To Collaborate On
-
-- Open-source projects
-- AI & automation tools
-- Fintech education
-- Blockchain applications
-- Developer communities
-- Educational technology
-- Hackathons & innovation programs
+- A USSD-ILP gateway for non-P2P crypto-to-bank transfers in Nigeria
+- Open-source educational tools for community learning programs
+- AI-powered automation projects
+- Digital financial literacy curriculum for underserved learners
 
 ---
 
-## Connect With Me
+## Open to
 
-- GitHub: https://github.com/Ogak-AI
-- Email: awajiogakfinomo@gmail.com or a.finomo3525@miva.edu.ng
+Collaborating on open-source projects, fintech education, AI tools, blockchain applications, hackathons, and anything that puts useful technology in more people's hands.
 
 ---
 
-## Philosophy
+## Reach me
 
-> Technology should not only be powerful — it should also be accessible, educational, and capable of creating opportunities for underserved communities.
+- GitHub: [github.com/Ogak-AI](https://github.com/Ogak-AI)
+- Email: awajiogakfinomo@gmail.com · a.finomo3525@miva.edu.ng
+
+---
+
+*Technology that only works for people who already have everything isn't solving much.*
 
 <a href="https://app.daily.dev/Ogak"><img src="https://api.daily.dev/devcards/329c53bc0de84b28867f5ea3bef7e20c.png?r=891" width="400" alt="Finomo Ogak's Dev Card"/></a>
